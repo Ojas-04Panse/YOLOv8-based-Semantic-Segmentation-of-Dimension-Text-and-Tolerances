@@ -1,0 +1,22 @@
+DETECTION RESULTS
+============================================================
+
+Total Views: 1
+Total Dimensions: 12
+
+
+View 0:
+  Position: (392, 728, 2269, 2605)
+  Dimensions found: 12
+    - [tolerance] R5 (conf: 0.41)
+    - [dimension] A (conf: 1.00)
+    - [dimension] R75 (conf: 0.96)
+    - [tolerance] B (conf: 0.62)
+    - [dimension] 8 (conf: 0.95)
+    - [dimension] D (conf: 1.00)
+    - [dimension] 8 (conf: 0.91)
+    - [tolerance_upper] R15 (conf: 1.00)
+    - [tolerance] R1o (conf: 0.87)
+    - [dimension] A (conf: 0.99)
+    - [tolerance_upper] 0 (conf: 0.57)
+    - [dimension] RS (conf: 0.85)

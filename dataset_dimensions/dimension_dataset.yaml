@@ -1,0 +1,10 @@
+path: D:\Programming\cummins_project\claude-try-4 26-11-25\dataset_dimensions
+train: train/images
+val: val/images
+test: test/images
+nc: 4
+names:
+- dimension
+- tolerance_upper
+- tolerance_lower
+- tolerance

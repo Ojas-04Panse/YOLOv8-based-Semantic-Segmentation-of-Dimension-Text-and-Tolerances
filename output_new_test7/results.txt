@@ -1,0 +1,46 @@
+DETECTION RESULTS
+============================================================
+
+Total Views: 6
+Total Dimensions: 16
+
+
+View 0:
+  Position: (343, 50, 469, 169)
+  Dimensions found: 0
+
+View 1:
+  Position: (496, 77, 592, 158)
+  Dimensions found: 0
+
+View 2:
+  Position: (225, 48, 314, 169)
+  Dimensions found: 2
+    - [dimension] Dn AB= (conf: 0.32)
+    - [dimension] Seclion (conf: 0.63)
+
+View 3:
+  Position: (11, 431, 153, 552)
+  Dimensions found: 0
+
+View 4:
+  Position: (50, 32, 694, 342)
+  Dimensions found: 13
+    - [tolerance_upper] On CL (conf: 0.46)
+    - [dimension] 6 (conf: 0.53)
+    - [tolerance_upper] ction (conf: 0.96)
+    - [tolerance_upper] Jeclion Or (conf: 0.69)
+    - [dimension] 06 Iapped (conf: 0.55)
+    - [tolerance_upper] Seclion (conf: 0.98)
+    - [tolerance_upper] holes (conf: 0.63)
+    - [dimension] 12  (conf: 0.42)
+    - [tolerance_upper] On CD (conf: 0.95)
+    - [tolerance_upper] lion On (conf: 0.63)
+    - [tolerance_upper] ction on EF (conf: 0.63)
+    - [dimension] R15 (conf: 0.66)
+    - [tolerance_upper] On AB= (conf: 0.53)
+
+View 5:
+  Position: (144, 375, 679, 561)
+  Dimensions found: 1
+    - [dimension] 024 (conf: 0.89)

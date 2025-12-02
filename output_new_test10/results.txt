@@ -1,0 +1,11 @@
+DETECTION RESULTS
+============================================================
+
+Total Views: 1
+Total Dimensions: 1
+
+
+View 0:
+  Position: (48, 0, 361, 214)
+  Dimensions found: 1
+    - [dimension] 28 (conf: 1.00)

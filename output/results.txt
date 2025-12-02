@@ -1,0 +1,23 @@
+DETECTION RESULTS
+============================================================
+
+Total Views: 4
+Total Dimensions: 1
+
+
+View 0:
+  Position: (295, 68, 531, 278)
+  Dimensions found: 0
+
+View 1:
+  Position: (27, 279, 320, 460)
+  Dimensions found: 1
+    - [dimension] D9s12 (conf: 0.20)
+
+View 2:
+  Position: (325, 281, 504, 467)
+  Dimensions found: 0
+
+View 3:
+  Position: (27, 85, 287, 249)
+  Dimensions found: 0

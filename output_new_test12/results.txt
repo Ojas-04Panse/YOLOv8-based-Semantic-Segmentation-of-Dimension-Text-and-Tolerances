@@ -1,0 +1,91 @@
+DETECTION RESULTS
+============================================================
+
+Total Views: 12
+Total Dimensions: 37
+
+
+View 0:
+  Position: (456, 35, 650, 250)
+  Dimensions found: 2
+    - [dimension] ENGINE (conf: 1.00)
+    - [dimension] 4 (conf: 0.97)
+
+View 1:
+  Position: (338, 63, 426, 174)
+  Dimensions found: 0
+
+View 2:
+  Position: (167, 42, 437, 470)
+  Dimensions found: 5
+    - [dimension] SECIION (conf: 0.87)
+    - [dimension] SECTION-CD (conf: 0.52)
+    - [dimension] CRS 56 (conf: 0.64)
+    - [dimension] +it (conf: 0.22)
+    - [dimension] Te (conf: 0.43)
+
+View 3:
+  Position: (33, 15, 183, 631)
+  Dimensions found: 4
+    - [dimension] FORGED ST (conf: 0.82)
+    - [tolerance_lower] ENING (conf: 0.55)
+    - [tolerance_upper] NHITE (conf: 0.96)
+    - [tolerance_upper] NHITE ME (conf: 0.61)
+
+View 4:
+  Position: (693, 424, 856, 489)
+  Dimensions found: 3
+    - [dimension] 70 H (conf: 0.36)
+    - [dimension] ECHART (conf: 0.99)
+    - [dimension] TOLERAL (conf: 1.00)
+
+View 5:
+  Position: (464, 274, 597, 408)
+  Dimensions found: 1
+    - [dimension] Mio (conf: 0.38)
+
+View 6:
+  Position: (289, 441, 429, 598)
+  Dimensions found: 6
+    - [dimension] MS2 (conf: 0.46)
+    - [dimension] ~OFF (conf: 0.66)
+    - [dimension] TLE NUT (conf: 0.99)
+    - [dimension] Mid (conf: 0.52)
+    - [dimension] Mid (conf: 0.68)
+    - [tolerance] Mid (conf: 0.87)
+
+View 7:
+  Position: (357, 253, 456, 420)
+  Dimensions found: 1
+    - [dimension] ECTION-EF (conf: 0.96)
+
+View 8:
+  Position: (695, 243, 861, 362)
+  Dimensions found: 0
+
+View 9:
+  Position: (432, 270, 590, 581)
+  Dimensions found: 5
+    - [dimension] END BOLT (conf: 0.89)
+    - [dimension] Mio (conf: 0.26)
+    - [dimension] MS; 2 OFF (conf: 0.38)
+    - [dimension] 010 (conf: 0.66)
+    - [dimension] )BIG (conf: 0.28)
+
+View 10:
+  Position: (463, 272, 596, 528)
+  Dimensions found: 1
+    - [tolerance] Mio (conf: 0.25)
+
+View 11:
+  Position: (579, 409, 900, 637)
+  Dimensions found: 9
+    - [dimension] z0 H:7 (conf: 0.20)
+    - [dimension] 20 g-# (conf: 0.31)
+    - [dimension] 20 g-# (conf: 0.25)
+    - [dimension] EGE OF ENIGINEERING (conf: 0.87)
+    - [dimension] ERANCE CHART (conf: 1.00)
+    - [dimension] TOLERANCE CE (conf: 0.56)
+    - [dimension] NQTE ALLD (conf: 0.60)
+    - [dimension] Sca6 (conf: 0.24)
+    - [dimension] DLE (conf: 0.20)

@@ -1,0 +1,20 @@
+DETECTION RESULTS
+============================================================
+
+Total Views: 2
+Total Dimensions: 6
+
+
+View 0:
+  Position: (91, 1, 393, 237)
+  Dimensions found: 4
+    - [dimension] 33 (conf: 1.00)
+    - [dimension] 22 (conf: 1.00)
+    - [dimension] 30 (conf: 1.00)
+    - [dimension] 60 (conf: 1.00)
+
+View 1:
+  Position: (0, 0, 336, 256)
+  Dimensions found: 2
+    - [dimension] 33 (conf: 0.95)
+    - [dimension] 60 (conf: 1.00)

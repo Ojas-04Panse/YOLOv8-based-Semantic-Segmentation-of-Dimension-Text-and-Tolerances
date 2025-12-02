@@ -1,0 +1,67 @@
+DETECTION RESULTS
+============================================================
+
+Total Views: 8
+Total Dimensions: 29
+
+
+View 0:
+  Position: (785, 17, 1191, 331)
+  Dimensions found: 9
+    - [dimension] 2192 (conf: 0.37)
+    - [dimension] ande (conf: 0.83)
+    - [tolerance_upper] Front (conf: 1.00)
+    - [tolerance_lower] Scale (conf: 0.81)
+    - [dimension] R 12 (conf: 0.96)
+    - [dimension] Holg (conf: 0.48)
+    - [dimension] 0t R 124 (conf: 0.51)
+    - [dimension] Hole (conf: 0.91)
+    - [dimension] Hal (conf: 0.77)
+
+View 1:
+  Position: (53, 31, 453, 352)
+  Dimensions found: 12
+    - [dimension] Jocim (conf: 0.49)
+    - [dimension] Hole (conf: 1.00)
+    - [dimension] #192 (conf: 0.47)
+    - [tolerance_upper] Tront (conf: 0.36)
+    - [dimension] 300 (conf: 0.96)
+    - [dimension] Flange (conf: 1.00)
+    - [tolerance_lower] Scale: (conf: 0.94)
+    - [dimension] iver) (conf: 0.67)
+    - [tolerance_lower] {dr (conf: 0.39)
+    - [dimension] Jolm (conf: 0.25)
+    - [tolerance_lower] iver (conf: 0.79)
+    - [tolerance_upper] Front (conf: 0.51)
+
+View 2:
+  Position: (502, 7, 712, 326)
+  Dimensions found: 2
+    - [dimension] Side (conf: 0.83)
+    - [dimension] Scale (conf: 0.55)
+
+View 3:
+  Position: (80, 408, 248, 534)
+  Dimensions found: 2
+    - [dimension] 030 (conf: 0.44)
+    - [dimension] 60 *0 (conf: 0.89)
+
+View 4:
+  Position: (538, 409, 938, 516)
+  Dimensions found: 1
+    - [dimension] 250 (conf: 1.00)
+
+View 5:
+  Position: (1040, 398, 1213, 538)
+  Dimensions found: 1
+    - [dimension] 31de (conf: 0.27)
+
+View 6:
+  Position: (296, 392, 415, 527)
+  Dimensions found: 0
+
+View 7:
+  Position: (297, 392, 418, 581)
+  Dimensions found: 2
+    - [dimension] Vlem (conf: 0.26)
+    - [dimension] Scale (conf: 0.98)

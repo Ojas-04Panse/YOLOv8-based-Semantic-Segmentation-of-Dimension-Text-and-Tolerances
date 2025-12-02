@@ -1,0 +1,11 @@
+path: D:\Programming\cummins_project\claude-try-4 26-11-25\dataset_views
+train: train/images
+val: val/images
+test: test/images
+nc: 5
+names:
+- view
+- line
+- circle
+- rectangle
+- arc
