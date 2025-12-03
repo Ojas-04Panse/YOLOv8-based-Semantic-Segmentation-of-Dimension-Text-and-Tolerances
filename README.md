@@ -1,4 +1,4 @@
-*📐 YOLOv8-based-Semantic-Segmentation-of-Dimension-Text-and-Tolerances (DimSense)
+#📐 YOLOv8-based-Semantic-Segmentation-of-Dimension-Text-and-Tolerances (DimSense)
 
 DimSense is a multi-stage Deep Learning pipeline designed to **automatically detect, isolate, and semantically categorize engineering dimensions and tolerances** from complex technical drawings and blueprints.
 
@@ -43,20 +43,18 @@ It converts raw drawing images into **structured, manufacturing-ready data**, ex
 ```bash
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
+
 🔹 Install Dependencies
-bash
-Copy code
+
 pip install ultralytics easyocr opencv-python matplotlib pyyaml numpy torch
+
 📂 Data Requirements
 A single unified annotation source, split into 2 datasets:
 
-bash
-Copy code
 mkdir -p dataset_views/images dataset_views/labels
 mkdir -p dataset_dimensions/images dataset_dimensions/labels
 Class mapping:
 
-Copy code
 0 - nominal_dimension
 1 - tolerance_upper
 2 - tolerance_lower
@@ -65,9 +63,9 @@ Place test images in project root (e.g., test_image.png)
 
 🧠 Training & Inference
 ▶️ Train Full Pipeline
-bash
-Copy code
+ 
 python drawing_pipeline.py
+
 ⏳ Training Specs
 Detector	Epochs	Resolution	Notes
 View Detector	100	640	Lightweight early locator
@@ -78,8 +76,6 @@ Dimension Detector	200	800	Trained on fine text details
 📊 Output Format
 Results available in:
 
-bash
-Copy code
 ./output/
 Output File	Description
 final_annotated.png	Full sheet detection + class overlays
@@ -88,11 +84,10 @@ results.txt	Parsed dimensional values + semantic labels
 
 Example:
 
-makefile
-Copy code
 dimension: 25.0 mm
 tolerance_upper: +0.2
 tolerance_lower: -0.1
+
 🗺️ Roadmap
 Upgrade	Goal
 YOLOv8-OBB	Accurate detection on rotated engineering text
