@@ -1,4 +1,4 @@
-#📐 YOLOv8-based-Semantic-Segmentation-of-Dimension-Text-and-Tolerances (DimSense)
+# 📐 YOLOv8-based-Semantic-Segmentation-of-Dimension-Text-and-Tolerances (DimSense)
 
 DimSense is a multi-stage Deep Learning pipeline designed to **automatically detect, isolate, and semantically categorize engineering dimensions and tolerances** from complex technical drawings and blueprints.
 
