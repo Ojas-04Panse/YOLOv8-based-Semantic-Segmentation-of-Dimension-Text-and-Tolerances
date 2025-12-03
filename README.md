@@ -99,7 +99,6 @@ Data Export API	CSV / JSON output for CAD-CAM workflow
 Ojas Panse
 AI & Data Science Engineer
 📧 Email: ojaspanse200@gmail.com
-🔗 LinkedIn:
-🔗 GitHub:
+🔗 LinkedIn: https://www.linkedin.com/in/ojas-panse-2a8a80286/
 
 If you build upon this work, please consider acknowledging the project.
